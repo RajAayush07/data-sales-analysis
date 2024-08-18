@@ -1,4 +1,4 @@
-1)We have used the tchnolgies like jupyter
+1)We have used the technolgies like jupyter
 <br>
 2)we have also use the python language and its libraries like seaborn,matplotlib,pandas and numpy.
 <br>
